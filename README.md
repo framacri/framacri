@@ -19,4 +19,4 @@ Python · Java · C · TypeScript / JavaScript · SQL · React · Next.js · Nod
 
 ### Contacts
 
-📧 francesco.macri2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/francesco-macr%C3%AC-65376143a/)
+📧 francesco.macri2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/francesco-macri/)
